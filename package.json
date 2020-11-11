@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-custom-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ielkanyuk/rxjs-custom-redux.git"
+  },
+  "author": "Igor Elkanyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ielkanyuk/rxjs-custom-redux/issues"
+  },
+  "homepage": "https://github.com/ielkanyuk/rxjs-custom-redux#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  }
+}
